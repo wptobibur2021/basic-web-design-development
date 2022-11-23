@@ -15,3 +15,17 @@
   margin: 100px;
   padding: 100px;
 }
+
+ul.menuArea {
+  list-style: none;
+  display: inline-flex;
+  background-color: #000;
+  color: #fff;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+ul.menuArea li {
+  margin: 0px 15px;
+  font-size: 20px;
+}
